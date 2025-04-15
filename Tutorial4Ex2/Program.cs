@@ -17,7 +17,7 @@ class Program
     static void Main()
     {
         
-        Person person1 = new Person("Alex", 20);
+        Person person1 = new Person("bishal", 22);
         Console.WriteLine("Name:" +person1.Name);
         Console.WriteLine("Age:" +person1.Age);
     }
