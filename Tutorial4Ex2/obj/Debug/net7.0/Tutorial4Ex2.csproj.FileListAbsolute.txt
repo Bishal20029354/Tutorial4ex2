@@ -1,0 +1,15 @@
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.csproj.AssemblyReference.cache
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.AssemblyInfoInputs.cache
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.AssemblyInfo.cs
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.csproj.CoreCompileInputs.cache
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net7.0/Tutorial4Ex2
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net7.0/Tutorial4Ex2.deps.json
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net7.0/Tutorial4Ex2.runtimeconfig.json
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net7.0/Tutorial4Ex2.dll
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/bin/Debug/net7.0/Tutorial4Ex2.pdb
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.dll
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/refint/Tutorial4Ex2.dll
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.pdb
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/Tutorial4Ex2.genruntimeconfig.cache
+/Users/bee/Projects/Tutorial4Ex2/Tutorial4Ex2/obj/Debug/net7.0/ref/Tutorial4Ex2.dll
